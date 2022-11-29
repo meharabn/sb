@@ -1,6 +1,6 @@
 config = {
 "uri":"http://meharabn.github.io/sb/",
-"redirect_uri":"http://meharabn.github.io/sb/signin.html",
+"redirect_uri":"http://meharabn.github.io/sb/login.html",
 "client_id":"[e6284784391844a49225322680a668bc]",
 "slowdown_import": 100,
 "slowdown_export": 100
